@@ -1,0 +1,1001 @@
+Date,Product,Region,Customer_Type,Quantity,Price,Discount,Revenue
+2024-06-11,Game Downloads,West,Casual,17,112.93,0.04,1843.02
+2024-10-17,Game Downloads,East,Hardcore,155,22.1,0.17,2843.16
+2024-11-11,In-game Purchases,South,Hardcore,18,43.0,0.16,650.16
+2024-08-10,Subscriptions,North,Hardcore,273,158.87,0.05,41202.93
+2024-02-28,Game Downloads,East,Casual,176,26.85,0.22,3685.97
+2024-09-18,Game Downloads,South,Casual,60,17.44,0.12,920.83
+2024-10-24,Subscriptions,West,Hardcore,161,50.69,0.06,7671.42
+2024-03-02,In-game Purchases,South,Hardcore,88,116.63,0.24,7800.21
+2024-11-24,Subscriptions,South,Hardcore,404,70.15,0.28,20405.23
+2024-01-27,Game Downloads,East,Hardcore,354,122.91,0.03,42204.84
+2024-10-28,Game Downloads,North,Hardcore,368,148.32,0.01,54035.94
+2024-01-25,Game Downloads,North,Casual,62,171.34,0.21,8392.23
+2024-07-21,Subscriptions,North,Hardcore,232,33.7,0.18,6411.09
+2024-11-17,Subscriptions,West,Casual,158,154.03,0.18,19956.13
+2024-11-17,In-game Purchases,East,Hardcore,315,197.19,0.18,50934.18
+2024-05-12,Game Downloads,North,Casual,268,141.71,0.24,28863.49
+2024-07-29,Game Downloads,South,Casual,378,162.71,0.26,45513.24
+2024-10-03,Subscriptions,South,Casual,445,118.78,0.2,42285.68
+2024-04-01,In-game Purchases,West,Hardcore,84,59.54,0.06,4701.28
+2024-01-26,In-game Purchases,East,Hardcore,178,107.52,0.1,17224.7
+2024-08-15,Subscriptions,East,Hardcore,231,38.35,0.24,6732.73
+2024-09-12,In-game Purchases,East,Casual,318,183.67,0.28,42053.08
+2024-12-06,Subscriptions,North,Casual,314,90.45,0.21,22437.03
+2024-08-16,In-game Purchases,West,Hardcore,135,111.96,0.05,14358.87
+2024-06-28,In-game Purchases,North,Casual,251,131.13,0.16,27647.45
+2024-04-27,In-game Purchases,East,Casual,253,10.04,0.02,2489.32
+2024-10-14,In-game Purchases,West,Casual,113,101.34,0.17,9504.68
+2024-05-05,Game Downloads,West,Casual,258,100.99,0.24,19802.12
+2024-06-06,Game Downloads,East,Casual,10,102.8,0.02,1007.44
+2024-05-16,Game Downloads,West,Casual,77,178.7,0.2,11007.92
+2024-09-22,Subscriptions,North,Hardcore,391,78.79,0.15,26185.86
+2024-01-13,Game Downloads,West,Casual,207,73.7,0.22,11899.6
+2024-08-06,In-game Purchases,South,Casual,169,44.83,0.29,5379.15
+2024-11-11,Subscriptions,North,Hardcore,151,91.54,0.22,10781.58
+2024-05-04,Subscriptions,North,Casual,356,135.52,0.29,34254.04
+2024-04-02,Subscriptions,East,Hardcore,151,120.25,0.1,16341.98
+2024-01-19,Subscriptions,South,Casual,14,16.71,0.12,205.87
+2024-05-14,In-game Purchases,North,Hardcore,253,73.07,0.07,17192.64
+2024-05-15,Game Downloads,North,Hardcore,247,85.77,0.29,15041.48
+2024-02-10,Subscriptions,West,Hardcore,253,68.01,0.1,15485.88
+2024-04-24,Game Downloads,South,Hardcore,312,161.95,0.14,43454.42
+2024-07-03,Game Downloads,East,Casual,119,136.15,0.28,11665.33
+2024-01-12,Game Downloads,South,Casual,143,29.24,0.06,3930.44
+2024-02-05,Game Downloads,West,Hardcore,353,159.69,0.24,42841.63
+2024-03-14,Game Downloads,North,Hardcore,312,176.99,0.27,40311.24
+2024-11-10,In-game Purchases,North,Hardcore,156,68.17,0.25,7975.89
+2024-11-27,Subscriptions,South,Hardcore,284,50.13,0.15,12101.38
+2024-06-13,In-game Purchases,South,Hardcore,266,43.82,0.23,8975.21
+2024-02-12,Game Downloads,South,Hardcore,390,181.73,0.04,68039.71
+2024-06-17,Subscriptions,North,Hardcore,474,79.09,0.03,36364.0
+2024-01-18,In-game Purchases,South,Hardcore,167,20.23,0.09,3074.35
+2024-05-26,In-game Purchases,East,Casual,463,191.62,0.15,75412.05
+2024-01-07,Game Downloads,South,Casual,162,190.89,0.14,26594.79
+2024-08-30,In-game Purchases,West,Hardcore,216,12.27,0.06,2491.3
+2024-02-07,Game Downloads,North,Hardcore,339,193.6,0.1,59067.36
+2024-02-14,In-game Purchases,East,Hardcore,450,110.47,0.03,48220.16
+2024-07-19,Game Downloads,North,Casual,194,192.14,0.03,36156.91
+2024-03-21,Game Downloads,South,Hardcore,269,129.41,0.14,29937.71
+2024-10-16,Game Downloads,North,Hardcore,145,181.4,0.26,19464.22
+2024-05-31,Subscriptions,North,Casual,462,71.85,0.14,28547.44
+2024-08-21,Subscriptions,East,Hardcore,223,159.02,0.07,32979.16
+2024-04-09,Subscriptions,West,Hardcore,436,171.68,0.24,56887.88
+2024-05-21,In-game Purchases,East,Casual,305,120.77,0.18,30204.58
+2024-10-13,Subscriptions,West,Hardcore,88,133.89,0.29,8365.45
+2024-09-09,Game Downloads,South,Casual,378,190.44,0.11,64067.82
+2024-02-19,In-game Purchases,East,Casual,228,136.69,0.28,22439.03
+2024-07-27,Subscriptions,West,Casual,213,35.5,0.28,5444.28
+2024-01-14,Game Downloads,South,Hardcore,293,170.12,0.24,37882.32
+2024-12-21,Subscriptions,West,Casual,478,63.03,0.08,27718.07
+2024-12-16,In-game Purchases,North,Casual,93,184.47,0.05,16297.92
+2024-10-26,Subscriptions,West,Casual,399,62.71,0.1,22519.16
+2024-02-25,Subscriptions,North,Hardcore,202,33.04,0.01,6607.34
+2024-07-13,Game Downloads,North,Casual,229,160.76,0.15,31291.93
+2024-10-25,Subscriptions,East,Casual,403,196.77,0.05,75333.39
+2024-12-29,Subscriptions,North,Hardcore,227,114.08,0.23,19940.04
+2024-09-08,In-game Purchases,West,Hardcore,206,59.74,0.12,10829.67
+2024-02-26,In-game Purchases,East,Casual,182,82.38,0.01,14843.23
+2024-05-14,Subscriptions,North,Hardcore,28,1.07,0.26,22.17
+2024-12-11,Game Downloads,North,Casual,218,135.32,0.1,26549.78
+2024-11-21,In-game Purchases,South,Hardcore,464,51.39,0.02,23368.06
+2024-09-30,Subscriptions,West,Hardcore,380,194.51,0.01,73174.66
+2024-03-23,Game Downloads,West,Casual,163,150.85,0.17,20408.5
+2024-09-28,In-game Purchases,South,Casual,319,127.57,0.14,34997.55
+2024-06-16,Subscriptions,South,Hardcore,451,92.8,0.22,32645.18
+2024-01-02,Subscriptions,East,Casual,36,34.93,0.04,1207.18
+2024-10-19,Game Downloads,East,Hardcore,205,117.42,0.11,21423.28
+2024-11-09,Game Downloads,South,Hardcore,74,84.02,0.02,6093.13
+2024-10-09,Game Downloads,West,Hardcore,435,36.37,0.24,12023.92
+2024-03-24,Subscriptions,East,Casual,159,66.98,0.21,8413.36
+2024-04-05,Game Downloads,North,Hardcore,46,61.99,0.06,2680.45
+2024-01-17,In-game Purchases,East,Casual,469,166.25,0.21,61597.29
+2024-06-18,Subscriptions,West,Casual,431,164.04,0.22,55146.97
+2024-03-17,Game Downloads,East,Hardcore,248,53.56,0.1,11954.59
+2024-05-14,Game Downloads,East,Casual,364,55.31,0.04,19327.53
+2024-09-07,Game Downloads,West,Casual,388,79.12,0.18,25172.82
+2024-11-03,In-game Purchases,South,Hardcore,180,152.77,0.17,22823.84
+2024-08-19,Game Downloads,West,Hardcore,227,88.54,0.03,19495.62
+2024-09-19,Game Downloads,South,Casual,396,146.07,0.06,54373.1
+2024-07-30,Game Downloads,East,Hardcore,392,90.84,0.01,35253.19
+2024-09-01,Subscriptions,South,Hardcore,7,37.0,0.04,248.64
+2024-01-22,Game Downloads,West,Hardcore,260,14.59,0.11,3376.13
+2024-09-18,In-game Purchases,North,Casual,445,149.96,0.06,62728.27
+2024-04-21,In-game Purchases,North,Casual,202,165.2,0.19,27030.02
+2024-12-16,Subscriptions,North,Hardcore,377,84.79,0.23,24613.69
+2024-05-19,In-game Purchases,South,Casual,402,43.74,0.2,14066.78
+2024-11-06,Game Downloads,South,Casual,179,98.15,0.06,16514.72
+2024-02-10,Game Downloads,West,Casual,246,165.51,0.11,36236.76
+2024-10-31,In-game Purchases,North,Casual,217,83.65,0.27,13251.0
+2024-02-09,Game Downloads,South,Hardcore,361,139.59,0.08,46360.63
+2024-12-04,In-game Purchases,West,Casual,333,114.76,0.27,27897.01
+2024-05-11,Subscriptions,West,Hardcore,405,133.83,0.08,49865.06
+2024-06-06,Subscriptions,West,Casual,493,27.02,0.14,11455.94
+2024-04-25,Game Downloads,East,Casual,486,141.77,0.07,64077.2
+2024-09-20,Subscriptions,East,Casual,251,160.72,0.05,38323.68
+2024-01-06,Subscriptions,East,Hardcore,305,114.99,0.23,27005.4
+2024-07-09,In-game Purchases,North,Casual,94,152.93,0.07,13369.14
+2024-07-30,In-game Purchases,North,Hardcore,88,101.16,0.21,7032.64
+2024-02-18,In-game Purchases,West,Hardcore,312,182.52,0.04,54668.39
+2024-05-14,Game Downloads,North,Hardcore,235,159.98,0.02,36843.39
+2024-10-19,Subscriptions,South,Hardcore,387,66.95,0.18,21245.91
+2024-02-25,Subscriptions,North,Casual,129,174.61,0.02,22074.2
+2024-09-30,Game Downloads,South,Casual,108,90.66,0.17,8126.76
+2024-02-07,In-game Purchases,West,Casual,267,129.03,0.25,25838.26
+2024-01-28,Game Downloads,North,Casual,70,123.78,0.14,7451.56
+2024-03-11,Game Downloads,North,Casual,298,91.2,0.23,20926.75
+2024-11-26,Subscriptions,South,Casual,53,108.93,0.11,5138.23
+2024-05-01,Game Downloads,North,Hardcore,175,178.24,0.18,25577.44
+2024-03-22,Subscriptions,West,Hardcore,106,135.25,0.13,12472.76
+2024-11-27,Game Downloads,North,Casual,315,130.43,0.3,28759.82
+2024-09-04,Subscriptions,East,Casual,422,74.69,0.14,27106.49
+2024-04-27,In-game Purchases,East,Casual,235,52.81,0.17,10300.59
+2024-12-21,Game Downloads,South,Casual,289,46.25,0.03,12965.26
+2024-09-24,In-game Purchases,North,Casual,200,124.89,0.08,22979.76
+2024-12-27,Game Downloads,South,Hardcore,139,99.94,0.12,12224.66
+2024-06-10,Subscriptions,North,Hardcore,371,60.69,0.18,18463.11
+2024-10-19,Game Downloads,South,Casual,249,152.64,0.2,30405.89
+2024-08-14,In-game Purchases,South,Casual,354,114.77,0.07,37784.58
+2024-10-23,Game Downloads,North,Casual,311,25.06,0.09,7092.23
+2024-01-16,Subscriptions,North,Casual,211,103.52,0.23,16818.89
+2024-11-02,Subscriptions,North,Hardcore,381,66.96,0.19,20664.53
+2024-02-11,In-game Purchases,North,Casual,449,86.79,0.19,31564.66
+2024-01-03,Game Downloads,South,Casual,473,143.32,0.06,63722.94
+2024-04-13,Game Downloads,South,Hardcore,393,163.92,0.2,51536.45
+2024-06-30,In-game Purchases,South,Hardcore,69,117.05,0.0,8076.45
+2024-05-13,Game Downloads,West,Casual,60,177.94,0.24,8114.06
+2024-10-05,Subscriptions,North,Hardcore,28,171.55,0.12,4226.99
+2024-04-05,Game Downloads,South,Hardcore,392,34.37,0.2,10778.43
+2024-08-03,Game Downloads,West,Hardcore,463,73.11,0.2,27079.94
+2024-08-26,Game Downloads,South,Hardcore,258,127.51,0.24,25002.16
+2024-06-02,Game Downloads,East,Casual,31,82.61,0.14,2202.38
+2024-02-03,Game Downloads,West,Casual,2,148.44,0.26,219.69
+2024-01-31,Subscriptions,South,Casual,443,124.5,0.15,46880.48
+2024-12-26,Game Downloads,West,Hardcore,450,37.25,0.03,16259.62
+2024-06-13,Game Downloads,East,Casual,387,50.93,0.21,15570.83
+2024-11-18,In-game Purchases,West,Hardcore,227,103.78,0.11,20966.67
+2024-06-08,Subscriptions,East,Casual,322,83.33,0.03,26027.29
+2024-09-24,Game Downloads,South,Casual,190,149.95,0.24,21652.78
+2024-01-01,Subscriptions,North,Hardcore,49,168.76,0.18,6780.78
+2024-02-05,Game Downloads,West,Hardcore,211,32.73,0.22,5386.7
+2024-01-21,Game Downloads,East,Casual,399,23.13,0.1,8305.98
+2024-11-10,Game Downloads,North,Hardcore,440,147.07,0.25,48533.1
+2024-02-29,Subscriptions,South,Hardcore,286,107.15,0.22,23903.02
+2024-04-07,In-game Purchases,East,Casual,329,49.06,0.04,15495.11
+2024-01-06,Subscriptions,North,Hardcore,74,157.35,0.24,8849.36
+2024-12-25,Game Downloads,North,Hardcore,34,92.85,0.04,3030.62
+2024-07-24,Game Downloads,North,Casual,210,109.79,0.18,18905.84
+2024-06-02,In-game Purchases,East,Hardcore,85,32.76,0.01,2756.75
+2024-04-13,Subscriptions,West,Casual,276,163.84,0.1,40697.86
+2024-01-22,In-game Purchases,West,Hardcore,412,92.76,0.13,33248.89
+2024-06-24,Game Downloads,East,Hardcore,171,122.63,0.24,15936.99
+2024-09-30,Game Downloads,North,Hardcore,209,190.1,0.0,39730.9
+2024-10-28,Subscriptions,South,Casual,286,128.09,0.02,35901.07
+2024-12-27,Game Downloads,North,Casual,487,10.46,0.22,3973.34
+2024-08-12,Game Downloads,South,Casual,355,123.0,0.29,31002.15
+2024-06-19,In-game Purchases,North,Casual,11,82.83,0.05,865.57
+2024-01-15,Game Downloads,East,Casual,193,28.26,0.25,4090.64
+2024-12-19,Game Downloads,East,Casual,239,51.3,0.27,8950.31
+2024-03-09,Game Downloads,South,Casual,85,154.17,0.13,11400.87
+2024-02-25,Subscriptions,South,Hardcore,84,12.43,0.07,971.03
+2024-09-16,Game Downloads,West,Casual,279,132.64,0.21,29235.18
+2024-04-05,Subscriptions,West,Hardcore,468,160.63,0.08,69160.85
+2024-08-30,Subscriptions,East,Hardcore,348,37.06,0.01,12767.91
+2024-11-19,In-game Purchases,East,Casual,314,195.65,0.12,54062.01
+2024-12-03,Game Downloads,West,Casual,454,170.07,0.23,59453.07
+2024-02-11,Subscriptions,South,Hardcore,452,130.3,0.29,41815.88
+2024-05-28,In-game Purchases,South,Hardcore,416,177.19,0.05,70025.49
+2024-05-15,Game Downloads,West,Hardcore,386,82.17,0.26,23471.04
+2024-10-16,Subscriptions,West,Casual,450,160.86,0.29,51394.77
+2024-08-15,In-game Purchases,North,Hardcore,162,174.7,0.28,20377.01
+2024-02-28,In-game Purchases,East,Casual,209,139.8,0.28,21037.1
+2024-04-14,Subscriptions,North,Casual,198,139.87,0.23,21324.58
+2024-11-09,Subscriptions,South,Casual,341,148.86,0.11,45177.52
+2024-07-20,Game Downloads,West,Hardcore,417,9.75,0.15,3455.89
+2024-04-22,In-game Purchases,East,Casual,97,66.42,0.19,5218.62
+2024-01-13,Game Downloads,North,Hardcore,426,191.53,0.25,61193.84
+2024-07-04,Game Downloads,West,Hardcore,382,1.52,0.06,545.8
+2024-05-21,Game Downloads,South,Casual,475,35.61,0.09,15392.42
+2024-02-09,Subscriptions,West,Hardcore,79,6.79,0.12,472.04
+2024-11-12,In-game Purchases,West,Hardcore,202,73.46,0.07,13800.2
+2024-11-26,Game Downloads,North,Casual,478,11.97,0.14,4920.63
+2024-02-17,In-game Purchases,West,Hardcore,276,150.22,0.13,36070.83
+2024-06-11,Subscriptions,West,Hardcore,319,94.74,0.06,28408.74
+2024-01-07,Subscriptions,West,Casual,347,20.12,0.21,5515.5
+2024-05-08,In-game Purchases,South,Casual,254,162.22,0.05,39143.69
+2024-03-25,Subscriptions,West,Hardcore,371,151.38,0.18,46052.82
+2024-01-09,Game Downloads,North,Casual,392,51.45,0.3,14117.88
+2024-01-11,In-game Purchases,East,Casual,338,30.18,0.07,9486.78
+2024-09-07,In-game Purchases,East,Hardcore,356,185.77,0.13,57536.68
+2024-11-30,In-game Purchases,North,Casual,419,182.26,0.14,65675.57
+2024-01-02,Subscriptions,South,Casual,192,181.59,0.2,27892.22
+2024-04-25,Game Downloads,South,Casual,3,43.08,0.03,125.36
+2024-09-25,Game Downloads,North,Casual,181,6.98,0.25,947.54
+2024-03-01,In-game Purchases,East,Casual,474,159.7,0.14,65100.11
+2024-09-12,Subscriptions,North,Casual,367,132.61,0.03,47207.83
+2024-02-14,Game Downloads,South,Casual,386,102.78,0.19,32135.19
+2024-08-19,Subscriptions,South,Hardcore,286,33.78,0.23,7439.03
+2024-08-22,Subscriptions,South,Hardcore,52,189.68,0.06,9271.56
+2024-08-10,Game Downloads,West,Hardcore,97,199.92,0.02,19004.4
+2024-04-14,In-game Purchases,West,Casual,273,44.67,0.29,8658.39
+2024-03-29,Subscriptions,West,Hardcore,400,110.49,0.22,34472.88
+2024-11-03,Subscriptions,North,Hardcore,32,141.76,0.3,3175.42
+2024-04-07,In-game Purchases,North,Hardcore,164,81.52,0.24,10160.65
+2024-07-17,Subscriptions,West,Hardcore,58,115.57,0.13,5831.66
+2024-07-06,Subscriptions,North,Casual,62,96.23,0.09,5429.3
+2024-05-24,In-game Purchases,North,Casual,289,182.07,0.18,43146.95
+2024-12-15,Game Downloads,North,Hardcore,343,44.72,0.2,12271.17
+2024-12-03,In-game Purchases,West,Casual,88,57.59,0.16,4257.05
+2024-10-19,Subscriptions,West,Hardcore,321,186.41,0.25,44878.21
+2024-10-21,Subscriptions,West,Casual,323,158.96,0.02,50317.2
+2024-02-03,Game Downloads,East,Casual,499,111.26,0.02,54408.37
+2024-07-06,In-game Purchases,North,Casual,109,24.74,0.29,1914.63
+2024-10-02,Game Downloads,East,Casual,316,113.41,0.07,33328.93
+2024-06-30,Subscriptions,East,Hardcore,389,133.08,0.17,42967.54
+2024-07-17,Game Downloads,East,Casual,354,135.97,0.11,42838.71
+2024-07-22,Subscriptions,East,Casual,423,149.22,0.14,54283.25
+2024-05-01,Game Downloads,South,Casual,80,75.93,0.11,5406.22
+2024-11-21,Subscriptions,North,Hardcore,389,106.12,0.12,36327.0
+2024-10-22,Subscriptions,North,Casual,115,29.57,0.12,2992.48
+2024-03-06,Subscriptions,South,Casual,96,17.58,0.15,1434.53
+2024-03-17,In-game Purchases,South,Casual,177,58.6,0.17,8608.93
+2024-10-17,In-game Purchases,West,Casual,111,172.01,0.27,13937.97
+2024-06-12,Subscriptions,South,Hardcore,441,48.16,0.28,15291.76
+2024-11-08,In-game Purchases,West,Hardcore,328,86.5,0.18,23265.04
+2024-07-10,Subscriptions,West,Hardcore,263,180.7,0.27,34692.59
+2024-12-03,Game Downloads,South,Hardcore,372,129.98,0.05,45934.93
+2024-12-24,Game Downloads,South,Casual,382,74.81,0.08,26291.23
+2024-10-14,Game Downloads,North,Casual,312,45.31,0.2,11309.38
+2024-04-07,In-game Purchases,South,Casual,215,51.67,0.11,9887.05
+2024-07-02,In-game Purchases,South,Casual,233,50.83,0.11,10540.62
+2024-12-01,In-game Purchases,North,Hardcore,410,45.57,0.21,14760.12
+2024-01-23,Game Downloads,East,Hardcore,486,133.56,0.24,49331.72
+2024-07-05,In-game Purchases,North,Casual,424,5.53,0.09,2133.7
+2024-06-23,In-game Purchases,East,Casual,321,194.22,0.1,56110.16
+2024-11-02,In-game Purchases,West,Hardcore,78,69.04,0.12,4738.91
+2024-10-17,Subscriptions,East,Casual,156,129.55,0.09,18390.92
+2024-09-22,Game Downloads,West,Hardcore,431,30.22,0.21,10289.61
+2024-06-13,Subscriptions,East,Hardcore,81,74.63,0.3,4231.52
+2024-12-20,Game Downloads,West,Hardcore,405,127.05,0.19,41678.75
+2024-10-31,Game Downloads,South,Hardcore,341,9.25,0.08,2901.91
+2024-05-27,Subscriptions,South,Casual,446,68.02,0.24,23056.06
+2024-06-02,Subscriptions,West,Hardcore,427,36.18,0.15,13131.53
+2024-02-22,Game Downloads,North,Casual,182,154.17,0.22,21885.97
+2024-12-17,Subscriptions,South,Casual,177,15.8,0.15,2377.11
+2024-02-06,In-game Purchases,West,Casual,478,54.13,0.29,18370.64
+2024-03-05,Subscriptions,East,Hardcore,453,158.9,0.26,53266.46
+2024-12-27,Subscriptions,South,Casual,47,141.91,0.28,4802.23
+2024-05-30,Subscriptions,South,Hardcore,166,104.36,0.25,12992.82
+2024-11-20,Subscriptions,North,Hardcore,143,124.38,0.22,13873.35
+2024-05-28,Subscriptions,North,Casual,363,74.59,0.25,20307.13
+2024-11-05,Game Downloads,East,Casual,229,49.86,0.02,11189.58
+2024-12-24,Subscriptions,South,Casual,221,60.52,0.22,10432.44
+2024-06-30,Game Downloads,North,Casual,225,43.05,0.04,9298.8
+2024-04-14,In-game Purchases,West,Hardcore,446,180.37,0.28,57920.41
+2024-03-05,Game Downloads,East,Casual,328,129.92,0.04,40909.21
+2024-03-02,In-game Purchases,West,Hardcore,179,7.49,0.08,1233.45
+2024-08-17,Subscriptions,North,Hardcore,245,96.25,0.04,22638.0
+2024-06-03,In-game Purchases,South,Casual,233,171.21,0.19,32312.46
+2024-03-30,Subscriptions,South,Casual,204,187.57,0.23,29463.5
+2024-02-06,Subscriptions,North,Hardcore,120,26.11,0.11,2788.55
+2024-01-23,Game Downloads,West,Hardcore,66,171.36,0.3,7916.83
+2024-10-20,In-game Purchases,East,Hardcore,350,104.66,0.02,35898.38
+2024-02-04,In-game Purchases,North,Hardcore,107,10.82,0.22,903.04
+2024-10-11,Game Downloads,North,Casual,116,36.49,0.15,3597.91
+2024-02-18,In-game Purchases,East,Casual,57,191.64,0.02,10705.01
+2024-04-25,Subscriptions,South,Hardcore,58,94.71,0.22,4284.68
+2024-11-24,In-game Purchases,East,Casual,116,197.56,0.16,19250.25
+2024-12-02,In-game Purchases,South,Casual,192,146.06,0.21,22154.38
+2024-01-01,In-game Purchases,West,Hardcore,237,68.7,0.09,14816.53
+2024-06-23,Subscriptions,East,Hardcore,310,123.96,0.22,29973.53
+2024-12-16,Subscriptions,East,Casual,481,183.49,0.28,63546.26
+2024-05-19,In-game Purchases,East,Casual,116,76.16,0.23,6802.61
+2024-06-24,Subscriptions,South,Casual,392,61.71,0.06,22738.9
+2024-02-26,Game Downloads,West,Hardcore,463,197.7,0.25,68651.32
+2024-06-06,Game Downloads,North,Casual,7,180.02,0.23,970.31
+2024-08-03,In-game Purchases,South,Hardcore,285,169.79,0.19,39196.02
+2024-10-27,Game Downloads,West,Hardcore,481,82.81,0.22,31068.66
+2024-01-15,Subscriptions,South,Hardcore,181,134.92,0.1,21978.47
+2024-03-12,Game Downloads,South,Casual,240,142.31,0.08,31422.05
+2024-10-28,In-game Purchases,North,Hardcore,87,94.74,0.19,6676.33
+2024-06-19,Subscriptions,North,Hardcore,299,104.43,0.22,24355.16
+2024-09-04,Subscriptions,North,Casual,11,133.35,0.25,1100.14
+2024-12-22,Subscriptions,East,Casual,242,18.45,0.04,4286.3
+2024-10-08,In-game Purchases,West,Casual,283,100.21,0.28,20418.79
+2024-02-19,Game Downloads,North,Hardcore,346,53.27,0.05,17509.85
+2024-02-09,In-game Purchases,West,Hardcore,352,168.63,0.19,48079.79
+2024-11-26,In-game Purchases,East,Hardcore,144,126.76,0.12,16063.03
+2024-01-29,In-game Purchases,East,Casual,11,75.91,0.04,801.61
+2024-06-06,Subscriptions,North,Hardcore,106,57.5,0.23,4693.15
+2024-08-12,Game Downloads,East,Hardcore,381,181.0,0.03,66892.17
+2024-10-03,Subscriptions,East,Casual,80,174.82,0.19,11328.34
+2024-09-05,Subscriptions,East,Hardcore,473,37.43,0.03,17173.26
+2024-04-08,In-game Purchases,East,Casual,21,89.8,0.12,1659.5
+2024-12-30,In-game Purchases,East,Hardcore,106,116.97,0.29,8803.16
+2024-07-02,In-game Purchases,East,Casual,111,102.56,0.17,9448.85
+2024-08-11,Subscriptions,North,Casual,247,60.48,0.14,12847.16
+2024-10-14,Game Downloads,South,Hardcore,339,102.39,0.19,28115.27
+2024-11-13,Subscriptions,East,Casual,101,42.79,0.22,3371.0
+2024-08-23,In-game Purchases,West,Casual,474,199.22,0.22,73655.62
+2024-04-24,Subscriptions,East,Casual,359,134.19,0.25,36130.66
+2024-11-12,Subscriptions,South,Hardcore,155,17.35,0.06,2527.9
+2024-04-29,In-game Purchases,North,Casual,227,83.87,0.11,16944.26
+2024-10-29,In-game Purchases,East,Casual,137,64.17,0.14,7560.51
+2024-07-09,In-game Purchases,East,Casual,460,119.4,0.11,48882.36
+2024-09-24,Game Downloads,South,Hardcore,65,148.37,0.12,8486.76
+2024-01-10,In-game Purchases,North,Casual,208,11.53,0.2,1918.59
+2024-11-05,Game Downloads,West,Hardcore,110,122.39,0.19,10904.95
+2024-12-15,Game Downloads,West,Hardcore,423,54.94,0.09,21148.05
+2024-06-27,In-game Purchases,East,Hardcore,314,96.11,0.0,30178.54
+2024-06-27,In-game Purchases,North,Hardcore,328,154.1,0.1,45490.32
+2024-03-12,Game Downloads,South,Casual,294,63.35,0.05,17693.66
+2024-06-16,Subscriptions,West,Casual,465,4.46,0.08,1907.99
+2024-07-28,Game Downloads,West,Hardcore,302,105.18,0.06,29858.5
+2024-11-24,In-game Purchases,South,Hardcore,309,193.67,0.1,53859.63
+2024-12-19,In-game Purchases,West,Casual,223,63.67,0.27,10364.84
+2024-02-18,Game Downloads,West,Hardcore,93,64.5,0.01,5938.52
+2024-06-04,Game Downloads,North,Hardcore,324,115.82,0.22,29270.03
+2024-07-25,In-game Purchases,South,Hardcore,374,160.94,0.21,47551.33
+2024-06-28,Game Downloads,North,Hardcore,75,90.64,0.18,5574.36
+2024-05-17,Subscriptions,East,Casual,79,198.92,0.14,13514.62
+2024-03-31,Subscriptions,North,Casual,52,198.3,0.07,9589.79
+2024-11-24,Game Downloads,West,Casual,44,175.94,0.26,5728.61
+2024-01-29,Game Downloads,West,Hardcore,271,14.89,0.05,3833.43
+2024-08-02,Subscriptions,North,Hardcore,410,6.03,0.19,2002.56
+2024-06-03,Subscriptions,North,Hardcore,427,104.35,0.09,40547.28
+2024-01-13,Game Downloads,East,Hardcore,355,117.48,0.28,30027.89
+2024-05-23,Game Downloads,South,Casual,369,31.76,0.08,10781.88
+2024-08-20,Game Downloads,North,Hardcore,298,39.46,0.24,8936.9
+2024-04-03,In-game Purchases,West,Casual,352,184.64,0.26,48095.03
+2024-08-25,Game Downloads,South,Casual,245,192.4,0.25,35353.5
+2024-09-07,Subscriptions,South,Hardcore,305,45.53,0.27,10137.25
+2024-09-16,Game Downloads,South,Hardcore,128,169.17,0.02,21220.68
+2024-09-16,Game Downloads,South,Hardcore,86,75.16,0.03,6269.85
+2024-12-07,Game Downloads,North,Hardcore,400,58.62,0.18,19227.36
+2024-05-13,In-game Purchases,North,Hardcore,117,136.02,0.09,14482.05
+2024-10-31,Subscriptions,East,Hardcore,201,13.3,0.18,2192.11
+2024-04-13,Subscriptions,East,Casual,476,191.36,0.03,88354.74
+2024-11-01,Game Downloads,East,Casual,388,148.84,0.05,54862.42
+2024-10-31,Subscriptions,West,Hardcore,468,27.55,0.14,11088.32
+2024-08-25,Game Downloads,North,Casual,243,91.29,0.07,20630.63
+2024-06-20,In-game Purchases,East,Casual,213,71.92,0.25,11489.22
+2024-08-15,Game Downloads,South,Casual,81,18.02,0.18,1196.89
+2024-09-16,Game Downloads,South,Casual,111,114.67,0.1,11455.53
+2024-11-16,Subscriptions,North,Hardcore,126,36.86,0.23,3576.16
+2024-02-28,Subscriptions,South,Hardcore,73,73.29,0.22,4173.13
+2024-09-07,Subscriptions,South,Casual,153,76.03,0.24,8840.77
+2024-10-04,Game Downloads,South,Hardcore,98,133.43,0.19,10591.67
+2024-11-05,Game Downloads,North,Hardcore,202,101.99,0.26,15245.47
+2024-10-05,Subscriptions,East,Hardcore,391,48.56,0.07,17657.87
+2024-01-24,In-game Purchases,West,Casual,122,64.47,0.22,6134.97
+2024-10-16,In-game Purchases,North,Casual,89,107.47,0.04,9182.24
+2024-09-18,Subscriptions,North,Casual,34,27.72,0.04,904.78
+2024-03-19,Subscriptions,North,Hardcore,204,69.62,0.29,10083.76
+2024-01-20,In-game Purchases,West,Casual,318,50.28,0.07,14869.81
+2024-11-02,Subscriptions,South,Hardcore,5,40.66,0.14,174.84
+2024-06-29,In-game Purchases,West,Hardcore,260,122.07,0.07,29516.53
+2024-01-09,Subscriptions,East,Hardcore,155,132.02,0.18,16779.74
+2024-08-30,Subscriptions,West,Hardcore,449,82.23,0.29,26214.1
+2024-08-14,Subscriptions,South,Casual,173,4.3,0.04,714.14
+2024-10-02,Subscriptions,West,Casual,406,121.91,0.08,45535.82
+2024-01-31,In-game Purchases,South,Casual,380,139.41,0.04,50856.77
+2024-02-06,Game Downloads,East,Hardcore,270,24.39,0.17,5465.8
+2024-02-15,In-game Purchases,West,Casual,479,149.91,0.0,71806.89
+2024-03-08,Subscriptions,North,Casual,259,59.81,0.28,11153.37
+2024-11-17,In-game Purchases,East,Hardcore,45,144.77,0.1,5863.18
+2024-06-10,In-game Purchases,North,Casual,386,142.25,0.16,46123.14
+2024-11-10,In-game Purchases,East,Hardcore,57,27.95,0.02,1561.29
+2024-02-08,Game Downloads,West,Casual,125,139.67,0.23,13443.24
+2024-07-06,Game Downloads,East,Casual,62,132.15,0.03,7947.5
+2024-02-23,In-game Purchases,East,Casual,129,14.58,0.02,1843.2
+2024-08-28,Subscriptions,East,Hardcore,330,20.61,0.07,6325.21
+2024-11-02,In-game Purchases,East,Hardcore,338,25.64,0.1,7799.69
+2024-10-06,Subscriptions,West,Hardcore,325,196.82,0.05,60768.18
+2024-02-13,In-game Purchases,West,Casual,45,78.22,0.13,3062.31
+2024-07-05,In-game Purchases,South,Casual,451,164.44,0.13,64521.32
+2024-12-28,Subscriptions,South,Hardcore,279,178.48,0.17,41330.61
+2024-07-21,Game Downloads,East,Casual,313,93.64,0.01,29016.23
+2024-01-19,Subscriptions,South,Casual,218,32.35,0.26,5218.7
+2024-02-19,Subscriptions,East,Hardcore,339,181.12,0.02,60171.69
+2024-06-12,Subscriptions,North,Casual,138,132.42,0.07,16994.78
+2024-09-21,In-game Purchases,East,Casual,399,199.49,0.23,61289.31
+2024-08-31,In-game Purchases,South,Casual,393,36.51,0.26,10617.84
+2024-01-11,Subscriptions,West,Casual,365,185.15,0.01,66903.95
+2024-09-09,Game Downloads,West,Casual,415,161.46,0.26,49584.37
+2024-06-23,In-game Purchases,West,Casual,329,19.46,0.15,5441.99
+2024-08-26,Subscriptions,East,Hardcore,289,129.71,0.28,26990.06
+2024-02-03,Subscriptions,North,Hardcore,24,163.25,0.26,2899.32
+2024-01-01,Game Downloads,West,Casual,95,84.72,0.3,5633.88
+2024-11-07,Game Downloads,East,Casual,95,189.65,0.21,14233.23
+2024-09-22,Subscriptions,South,Casual,203,143.52,0.28,20976.88
+2024-12-04,Game Downloads,West,Casual,433,172.98,0.2,59920.27
+2024-12-03,Game Downloads,South,Casual,367,30.56,0.24,8523.8
+2024-07-26,Subscriptions,West,Hardcore,347,131.84,0.03,44376.03
+2024-03-18,In-game Purchases,East,Hardcore,82,48.95,0.3,2809.73
+2024-11-12,In-game Purchases,West,Casual,112,35.85,0.01,3975.05
+2024-02-21,Game Downloads,South,Casual,199,11.28,0.12,1975.35
+2024-10-05,In-game Purchases,West,Casual,344,58.18,0.17,16611.55
+2024-03-28,Subscriptions,North,Hardcore,467,123.3,0.23,44337.45
+2024-11-24,Game Downloads,East,Casual,370,193.93,0.13,62426.07
+2024-01-17,Game Downloads,West,Casual,235,143.4,0.05,32014.05
+2024-03-22,Game Downloads,West,Casual,172,133.0,0.23,17614.52
+2024-09-22,Subscriptions,South,Casual,460,75.83,0.09,31742.44
+2024-01-06,Game Downloads,South,Hardcore,285,47.99,0.06,12856.52
+2024-04-13,Subscriptions,East,Casual,79,170.48,0.16,11313.05
+2024-02-02,In-game Purchases,South,Casual,490,41.26,0.3,14152.18
+2024-07-21,In-game Purchases,North,Hardcore,174,77.28,0.27,9816.11
+2024-05-07,Game Downloads,South,Hardcore,172,40.86,0.17,5833.17
+2024-01-09,Subscriptions,North,Casual,445,157.27,0.06,65786.04
+2024-05-21,Subscriptions,South,Casual,38,128.6,0.27,3567.36
+2024-01-30,In-game Purchases,South,Casual,333,105.09,0.01,34645.02
+2024-09-20,Game Downloads,North,Hardcore,62,118.49,0.21,5803.64
+2024-06-17,In-game Purchases,East,Hardcore,492,8.17,0.21,3175.52
+2024-02-25,Subscriptions,South,Hardcore,278,56.26,0.19,12668.63
+2024-10-02,Subscriptions,West,Hardcore,66,95.54,0.04,6053.41
+2024-07-11,Subscriptions,South,Casual,135,97.54,0.17,10929.36
+2024-08-28,In-game Purchases,South,Casual,103,22.22,0.24,1739.38
+2024-01-24,Subscriptions,North,Hardcore,440,143.54,0.09,57473.42
+2024-09-08,Subscriptions,North,Hardcore,364,13.84,0.22,3929.45
+2024-08-22,Game Downloads,East,Hardcore,478,43.9,0.21,16577.52
+2024-08-16,Game Downloads,East,Casual,204,29.01,0.06,5562.96
+2024-06-10,In-game Purchases,West,Hardcore,22,59.58,0.27,956.85
+2024-07-15,Game Downloads,East,Hardcore,215,73.79,0.15,13485.12
+2024-09-06,Game Downloads,West,Hardcore,58,30.77,0.24,1356.34
+2024-10-21,Game Downloads,East,Casual,118,187.81,0.15,18837.34
+2024-07-21,Subscriptions,West,Casual,198,199.34,0.13,34338.31
+2024-08-06,Game Downloads,South,Hardcore,253,155.26,0.23,30246.2
+2024-03-23,Subscriptions,North,Casual,334,109.49,0.27,26695.85
+2024-11-15,Game Downloads,South,Casual,26,104.21,0.22,2113.38
+2024-09-08,Subscriptions,West,Hardcore,264,99.33,0.17,21765.19
+2024-11-19,Subscriptions,North,Hardcore,162,80.04,0.29,9206.2
+2024-04-26,Subscriptions,West,Hardcore,100,122.5,0.13,10657.5
+2024-08-22,In-game Purchases,West,Hardcore,266,70.32,0.02,18331.02
+2024-03-07,In-game Purchases,North,Hardcore,48,27.46,0.17,1094.01
+2024-06-14,Subscriptions,East,Hardcore,196,39.26,0.06,7233.26
+2024-07-02,In-game Purchases,South,Casual,295,193.56,0.04,54816.19
+2024-08-29,Subscriptions,East,Hardcore,298,40.7,0.18,9945.45
+2024-05-26,Game Downloads,South,Hardcore,394,55.6,0.02,21468.27
+2024-01-21,In-game Purchases,East,Casual,434,77.56,0.26,24909.17
+2024-11-13,In-game Purchases,North,Casual,431,38.59,0.21,13139.51
+2024-03-11,Game Downloads,East,Hardcore,467,196.48,0.09,83498.11
+2024-01-05,Game Downloads,South,Hardcore,267,78.88,0.09,19165.47
+2024-11-26,Subscriptions,West,Casual,237,22.38,0.03,5144.94
+2024-05-18,Subscriptions,West,Casual,314,39.9,0.11,11150.45
+2024-05-31,Subscriptions,North,Hardcore,132,151.75,0.1,18027.9
+2024-08-13,Subscriptions,West,Hardcore,448,110.91,0.23,38259.51
+2024-09-15,Subscriptions,West,Hardcore,408,167.02,0.02,66781.28
+2024-01-18,Game Downloads,South,Hardcore,150,98.7,0.18,12140.1
+2024-11-28,Subscriptions,South,Casual,365,134.34,0.01,48543.76
+2024-06-03,In-game Purchases,North,Casual,388,83.34,0.27,23605.22
+2024-06-20,Game Downloads,West,Casual,313,56.39,0.17,14649.56
+2024-02-10,Subscriptions,West,Casual,463,16.37,0.08,6972.97
+2024-02-16,In-game Purchases,East,Casual,185,55.21,0.03,9907.43
+2024-08-06,In-game Purchases,East,Hardcore,9,147.12,0.07,1231.39
+2024-10-12,In-game Purchases,East,Casual,376,193.8,0.01,72140.11
+2024-12-11,Game Downloads,East,Hardcore,406,161.84,0.1,59136.34
+2024-10-15,In-game Purchases,East,Casual,22,11.63,0.03,248.18
+2024-09-12,Subscriptions,South,Casual,267,10.2,0.27,1988.08
+2024-10-27,In-game Purchases,North,Casual,464,9.81,0.0,4551.84
+2024-04-17,In-game Purchases,North,Casual,392,171.48,0.21,53103.93
+2024-10-07,Subscriptions,West,Casual,108,113.87,0.13,10699.23
+2024-01-10,Game Downloads,East,Hardcore,479,42.4,0.04,19497.22
+2024-08-06,Game Downloads,West,Hardcore,281,156.72,0.06,41396.02
+2024-05-30,Game Downloads,South,Hardcore,3,8.43,0.21,19.98
+2024-11-12,In-game Purchases,South,Hardcore,158,94.23,0.16,12506.21
+2024-02-24,Subscriptions,North,Casual,305,134.17,0.17,33965.14
+2024-01-18,Game Downloads,South,Hardcore,376,26.03,0.18,8025.57
+2024-06-05,Game Downloads,East,Casual,406,173.05,0.08,64637.64
+2024-06-16,Game Downloads,South,Casual,310,106.67,0.02,32406.35
+2024-01-10,In-game Purchases,East,Hardcore,466,33.52,0.21,12340.05
+2024-01-29,In-game Purchases,East,Casual,391,142.53,0.22,43468.8
+2024-04-10,Game Downloads,East,Hardcore,3,93.98,0.11,250.93
+2024-04-19,In-game Purchases,North,Hardcore,354,197.92,0.23,53949.03
+2024-02-05,Subscriptions,North,Casual,11,154.2,0.12,1492.66
+2024-03-08,Subscriptions,East,Hardcore,441,3.46,0.1,1373.27
+2024-11-18,Game Downloads,North,Hardcore,485,19.08,0.29,6570.2
+2024-08-16,Subscriptions,South,Hardcore,140,148.21,0.23,15977.04
+2024-06-08,Subscriptions,West,Hardcore,62,165.92,0.14,8846.85
+2024-06-18,Game Downloads,East,Hardcore,312,4.21,0.03,1274.11
+2024-09-21,In-game Purchases,West,Casual,450,185.65,0.11,74352.82
+2024-01-01,Subscriptions,South,Hardcore,253,132.86,0.2,26890.86
+2024-04-25,In-game Purchases,West,Casual,292,154.4,0.29,32010.21
+2024-05-29,Subscriptions,West,Casual,196,84.66,0.08,15265.89
+2024-07-09,Game Downloads,East,Casual,5,28.98,0.04,139.1
+2024-02-10,In-game Purchases,East,Hardcore,92,195.34,0.24,13658.17
+2024-12-18,In-game Purchases,South,Casual,335,126.01,0.11,37569.88
+2024-07-19,Subscriptions,North,Hardcore,497,146.06,0.03,70414.07
+2024-01-26,Game Downloads,East,Casual,171,31.09,0.13,4625.26
+2024-06-02,Game Downloads,West,Hardcore,237,43.8,0.16,8719.7
+2024-12-30,In-game Purchases,South,Casual,239,69.9,0.24,12696.64
+2024-01-21,In-game Purchases,North,Casual,279,21.32,0.19,4818.11
+2024-12-08,In-game Purchases,East,Casual,51,36.97,0.09,1715.78
+2024-01-19,Subscriptions,South,Casual,273,73.03,0.21,15750.38
+2024-05-03,In-game Purchases,West,Hardcore,117,144.18,0.29,11977.03
+2024-11-11,Subscriptions,East,Hardcore,373,178.33,0.15,56539.53
+2024-10-30,Subscriptions,East,Hardcore,188,113.25,0.14,18310.26
+2024-10-15,Game Downloads,East,Hardcore,473,157.98,0.28,53801.67
+2024-07-11,Subscriptions,North,Hardcore,296,77.25,0.22,17835.48
+2024-08-30,In-game Purchases,West,Hardcore,417,5.63,0.09,2136.42
+2024-11-30,Subscriptions,East,Casual,69,147.14,0.23,7817.55
+2024-05-21,In-game Purchases,East,Hardcore,415,55.43,0.03,22313.35
+2024-07-08,Game Downloads,South,Hardcore,434,103.15,0.14,38499.71
+2024-05-09,Subscriptions,West,Casual,52,26.68,0.27,1012.77
+2024-03-19,Subscriptions,East,Hardcore,110,145.03,0.09,14517.5
+2024-10-22,Subscriptions,South,Hardcore,314,30.4,0.25,7159.2
+2024-04-02,Subscriptions,West,Casual,142,126.66,0.22,14028.86
+2024-06-02,Subscriptions,South,Casual,197,117.19,0.18,18930.87
+2024-01-03,In-game Purchases,East,Casual,259,112.7,0.28,21016.3
+2024-05-03,Game Downloads,North,Hardcore,118,130.17,0.23,11827.25
+2024-03-26,Game Downloads,West,Casual,362,162.26,0.17,48752.64
+2024-11-24,In-game Purchases,East,Hardcore,253,113.56,0.03,27868.76
+2024-10-06,In-game Purchases,East,Casual,294,153.9,0.19,36649.75
+2024-10-18,Game Downloads,West,Casual,312,93.48,0.14,25082.55
+2024-08-22,In-game Purchases,East,Hardcore,417,103.49,0.04,41429.12
+2024-09-15,In-game Purchases,West,Casual,180,86.51,0.2,12457.44
+2024-12-30,In-game Purchases,South,Hardcore,296,37.44,0.17,9198.26
+2024-04-20,Game Downloads,South,Casual,188,190.06,0.01,35373.97
+2024-04-22,In-game Purchases,South,Hardcore,472,197.8,0.09,84959.06
+2024-06-12,In-game Purchases,South,Casual,419,129.71,0.27,39674.4
+2024-08-20,Subscriptions,South,Casual,151,114.25,0.11,15354.06
+2024-07-29,Game Downloads,East,Casual,414,132.11,0.06,51411.93
+2024-09-07,In-game Purchases,West,Casual,89,115.43,0.01,10170.54
+2024-10-25,Subscriptions,West,Hardcore,209,125.93,0.01,26056.18
+2024-02-24,Game Downloads,East,Casual,387,130.73,0.09,46039.18
+2024-01-03,Subscriptions,East,Hardcore,314,94.26,0.15,25157.99
+2024-11-07,Game Downloads,South,Hardcore,156,138.26,0.12,18980.33
+2024-02-20,Game Downloads,East,Hardcore,304,109.65,0.28,24000.19
+2024-10-21,Game Downloads,South,Casual,302,76.26,0.28,16581.97
+2024-10-07,Game Downloads,South,Casual,198,195.67,0.21,30606.7
+2024-05-19,Subscriptions,West,Casual,42,107.58,0.13,3930.97
+2024-06-19,Game Downloads,South,Casual,242,186.83,0.02,44308.6
+2024-01-04,In-game Purchases,North,Casual,27,187.44,0.28,3643.83
+2024-12-19,Game Downloads,West,Casual,117,171.27,0.13,17433.57
+2024-09-04,Subscriptions,West,Casual,410,129.86,0.04,51112.9
+2024-07-12,Subscriptions,West,Hardcore,263,85.25,0.26,16591.36
+2024-01-23,Game Downloads,North,Casual,34,160.31,0.27,3978.89
+2024-06-24,Game Downloads,South,Casual,148,7.15,0.07,984.13
+2024-06-22,In-game Purchases,North,Casual,168,167.32,0.26,20801.22
+2024-10-30,Game Downloads,East,Hardcore,390,47.4,0.12,16267.68
+2024-12-27,In-game Purchases,East,Casual,407,18.98,0.06,7261.37
+2024-02-20,In-game Purchases,South,Hardcore,169,33.13,0.12,4927.09
+2024-09-16,Game Downloads,East,Casual,395,170.23,0.27,49085.82
+2024-12-09,In-game Purchases,South,Hardcore,488,87.75,0.06,40252.68
+2024-08-05,Subscriptions,West,Hardcore,356,67.73,0.2,19289.5
+2024-06-20,Subscriptions,East,Hardcore,311,139.78,0.11,38689.71
+2024-06-10,In-game Purchases,West,Hardcore,392,186.98,0.25,54972.12
+2024-12-06,Subscriptions,East,Casual,106,74.68,0.07,7361.95
+2024-06-11,In-game Purchases,East,Casual,209,3.56,0.24,565.47
+2024-05-05,Subscriptions,North,Hardcore,92,84.87,0.16,6558.75
+2024-01-19,Game Downloads,West,Casual,175,109.54,0.01,18977.8
+2024-12-08,Subscriptions,West,Casual,57,69.15,0.06,3705.06
+2024-01-28,In-game Purchases,South,Hardcore,368,198.91,0.21,57827.12
+2024-02-10,In-game Purchases,East,Hardcore,275,3.67,0.01,999.16
+2024-04-05,In-game Purchases,East,Hardcore,310,1.58,0.06,460.41
+2024-05-21,In-game Purchases,East,Casual,145,72.38,0.16,8815.88
+2024-06-25,Game Downloads,East,Casual,260,42.65,0.11,9869.21
+2024-07-16,In-game Purchases,North,Casual,81,194.07,0.29,11160.97
+2024-01-31,In-game Purchases,West,Hardcore,493,28.42,0.12,12329.73
+2024-07-01,Game Downloads,North,Casual,378,180.04,0.03,66013.47
+2024-10-22,In-game Purchases,South,Casual,235,160.56,0.21,29807.96
+2024-03-27,Game Downloads,East,Casual,147,108.34,0.13,13855.6
+2024-05-01,Game Downloads,North,Hardcore,49,67.6,0.23,2550.55
+2024-04-10,Game Downloads,East,Casual,115,184.81,0.29,15089.74
+2024-09-10,Subscriptions,East,Hardcore,456,153.04,0.12,61411.89
+2024-01-29,Subscriptions,South,Hardcore,181,16.86,0.21,2410.81
+2024-05-10,In-game Purchases,West,Hardcore,487,51.71,0.22,19642.56
+2024-01-31,Subscriptions,North,Casual,231,176.16,0.29,28892.0
+2024-09-05,Subscriptions,West,Hardcore,339,24.12,0.26,6050.74
+2024-04-08,In-game Purchases,East,Hardcore,235,175.87,0.09,37609.8
+2024-10-27,In-game Purchases,South,Casual,166,40.16,0.07,6199.9
+2024-10-21,Game Downloads,East,Casual,450,33.62,0.25,11346.75
+2024-12-19,Subscriptions,North,Hardcore,300,83.51,0.08,23048.76
+2024-10-08,In-game Purchases,South,Casual,45,52.74,0.11,2112.24
+2024-05-02,Subscriptions,West,Hardcore,305,155.72,0.16,39895.46
+2024-10-03,In-game Purchases,North,Hardcore,479,153.95,0.06,69317.53
+2024-05-17,Subscriptions,West,Casual,178,161.85,0.26,21318.88
+2024-05-23,Game Downloads,North,Hardcore,97,195.06,0.06,17785.57
+2024-02-26,Subscriptions,North,Hardcore,107,88.85,0.01,9411.88
+2024-11-11,Subscriptions,South,Hardcore,352,28.21,0.16,8341.13
+2024-12-28,In-game Purchases,East,Casual,81,35.57,0.13,2506.62
+2024-03-21,Subscriptions,West,Hardcore,6,155.66,0.15,793.87
+2024-03-02,In-game Purchases,West,Hardcore,425,59.43,0.27,18438.16
+2024-08-27,In-game Purchases,North,Casual,164,141.38,0.01,22954.46
+2024-06-08,Subscriptions,South,Hardcore,393,135.87,0.02,52328.97
+2024-11-12,Game Downloads,North,Hardcore,80,51.88,0.23,3195.81
+2024-10-28,In-game Purchases,North,Hardcore,221,56.89,0.17,10435.33
+2024-12-01,Game Downloads,East,Hardcore,155,68.48,0.04,10189.82
+2024-11-28,Game Downloads,East,Hardcore,79,166.69,0.03,12773.45
+2024-12-17,In-game Purchases,South,Hardcore,308,42.42,0.3,9145.75
+2024-02-01,In-game Purchases,South,Casual,376,80.88,0.04,29194.44
+2024-10-09,Game Downloads,North,Casual,381,172.87,0.14,56642.58
+2024-05-02,Game Downloads,West,Casual,450,103.08,0.22,36181.08
+2024-02-03,Game Downloads,North,Hardcore,475,63.0,0.14,25735.5
+2024-09-29,Game Downloads,East,Hardcore,373,116.64,0.06,40896.32
+2024-01-29,In-game Purchases,West,Hardcore,105,151.73,0.06,14975.75
+2024-01-16,Game Downloads,West,Hardcore,397,11.99,0.0,4760.03
+2024-05-01,In-game Purchases,South,Hardcore,338,191.95,0.27,47361.74
+2024-03-25,Subscriptions,East,Casual,136,16.34,0.28,1600.01
+2024-07-01,Subscriptions,South,Casual,296,101.26,0.13,26076.48
+2024-03-11,In-game Purchases,West,Casual,120,120.31,0.06,13570.97
+2024-08-26,Subscriptions,South,Hardcore,335,188.18,0.21,49801.84
+2024-03-28,Subscriptions,West,Casual,403,67.1,0.23,20821.8
+2024-12-20,Game Downloads,East,Casual,397,62.67,0.17,20650.39
+2024-09-27,Game Downloads,East,Hardcore,263,33.94,0.2,7140.98
+2024-11-09,Subscriptions,East,Casual,312,131.27,0.26,30307.62
+2024-03-10,Game Downloads,North,Casual,127,154.64,0.18,16104.21
+2024-07-12,In-game Purchases,West,Casual,146,96.36,0.28,10129.36
+2024-11-30,Subscriptions,East,Casual,460,58.19,0.03,25964.38
+2024-02-10,Subscriptions,South,Hardcore,343,69.23,0.25,17809.42
+2024-01-19,Subscriptions,North,Hardcore,340,101.22,0.08,31661.62
+2024-10-31,Subscriptions,West,Hardcore,309,143.43,0.08,40774.28
+2024-12-06,Game Downloads,West,Hardcore,413,149.63,0.27,45111.95
+2024-08-08,Game Downloads,West,Casual,108,98.68,0.22,8312.8
+2024-08-11,Game Downloads,North,Hardcore,26,115.55,0.18,2463.53
+2024-12-05,Subscriptions,East,Hardcore,191,170.78,0.22,25442.8
+2024-10-24,Game Downloads,North,Casual,84,91.52,0.1,6918.91
+2024-01-29,In-game Purchases,East,Casual,84,43.75,0.04,3528.0
+2024-02-19,Game Downloads,East,Hardcore,173,184.35,0.09,29022.22
+2024-07-11,Subscriptions,North,Hardcore,393,19.1,0.08,6905.8
+2024-09-26,Subscriptions,West,Hardcore,410,130.81,0.16,45050.96
+2024-08-22,Game Downloads,East,Casual,361,23.09,0.23,6418.33
+2024-05-08,Subscriptions,South,Casual,204,10.61,0.25,1623.33
+2024-04-13,In-game Purchases,West,Casual,493,98.52,0.07,45170.43
+2024-06-26,In-game Purchases,West,Hardcore,496,83.16,0.18,33822.84
+2024-07-31,Game Downloads,West,Hardcore,198,39.55,0.07,7282.74
+2024-07-19,Game Downloads,South,Hardcore,39,85.06,0.09,3018.78
+2024-12-13,Subscriptions,North,Casual,391,126.44,0.26,36584.15
+2024-01-18,Game Downloads,West,Hardcore,344,17.54,0.11,5370.05
+2024-12-12,In-game Purchases,East,Hardcore,56,141.57,0.02,7769.36
+2024-06-26,Subscriptions,North,Hardcore,303,72.36,0.0,21925.08
+2024-06-19,Subscriptions,North,Hardcore,19,198.61,0.03,3660.38
+2024-08-17,Game Downloads,East,Hardcore,480,179.28,0.2,68843.52
+2024-05-07,In-game Purchases,North,Hardcore,299,34.23,0.29,7266.69
+2024-03-08,Game Downloads,East,Casual,442,108.17,0.26,35380.24
+2024-07-01,Subscriptions,East,Hardcore,259,139.92,0.07,33702.53
+2024-08-01,Subscriptions,North,Casual,78,147.79,0.09,10490.13
+2024-07-20,In-game Purchases,South,Hardcore,492,28.02,0.2,11028.67
+2024-07-09,Game Downloads,West,Casual,424,103.31,0.02,42927.37
+2024-12-19,Subscriptions,North,Hardcore,64,10.17,0.03,631.35
+2024-03-20,Subscriptions,West,Hardcore,345,53.16,0.14,15772.57
+2024-06-04,Game Downloads,North,Casual,217,122.4,0.09,24170.33
+2024-05-27,Subscriptions,South,Casual,100,121.29,0.1,10916.1
+2024-11-15,Game Downloads,South,Casual,202,164.73,0.24,25289.35
+2024-06-11,In-game Purchases,North,Hardcore,7,152.63,0.09,972.25
+2024-02-23,Subscriptions,West,Casual,39,170.99,0.26,4934.77
+2024-03-07,Game Downloads,West,Casual,269,153.57,0.22,32222.06
+2024-09-15,Subscriptions,North,Hardcore,443,122.65,0.25,40750.46
+2024-10-02,Subscriptions,East,Casual,414,111.78,0.27,33782.15
+2024-02-13,Subscriptions,South,Casual,247,187.46,0.25,34726.97
+2024-04-01,Subscriptions,South,Hardcore,395,24.1,0.1,8567.55
+2024-06-15,Game Downloads,North,Casual,421,46.96,0.21,15618.43
+2024-01-03,Game Downloads,East,Hardcore,90,184.05,0.11,14742.4
+2024-06-30,In-game Purchases,North,Hardcore,57,189.9,0.01,10716.06
+2024-05-25,In-game Purchases,West,Hardcore,398,4.13,0.17,1364.3
+2024-02-26,Game Downloads,East,Hardcore,350,94.08,0.26,24366.72
+2024-09-12,Subscriptions,West,Casual,474,146.33,0.29,49245.9
+2024-06-08,Subscriptions,East,Hardcore,77,115.44,0.28,6399.99
+2024-04-11,In-game Purchases,East,Casual,446,7.85,0.11,3115.98
+2024-05-05,Subscriptions,East,Hardcore,45,123.63,0.05,5285.18
+2024-04-06,Subscriptions,North,Casual,498,31.65,0.01,15604.08
+2024-05-01,Subscriptions,North,Casual,73,116.94,0.01,8451.25
+2024-09-22,Subscriptions,South,Hardcore,205,38.82,0.07,7401.03
+2024-04-30,In-game Purchases,West,Casual,264,187.89,0.0,49602.96
+2024-05-20,In-game Purchases,West,Casual,335,15.0,0.25,3768.75
+2024-12-13,Game Downloads,North,Hardcore,423,15.86,0.09,6104.99
+2024-02-17,Game Downloads,South,Hardcore,430,193.37,0.14,71508.23
+2024-09-17,In-game Purchases,East,Hardcore,247,73.24,0.19,14653.13
+2024-12-23,In-game Purchases,West,Hardcore,313,181.69,0.11,50613.38
+2024-09-15,Subscriptions,East,Casual,387,43.18,0.23,12867.21
+2024-12-07,Game Downloads,West,Hardcore,487,33.9,0.08,15188.56
+2024-03-08,Subscriptions,West,Hardcore,16,37.87,0.28,436.26
+2024-10-09,In-game Purchases,West,Casual,345,54.63,0.02,18470.4
+2024-10-09,Game Downloads,West,Casual,212,74.56,0.3,11064.7
+2024-01-22,Game Downloads,East,Hardcore,155,159.9,0.15,21066.82
+2024-03-03,Subscriptions,West,Hardcore,321,180.47,0.18,47503.31
+2024-09-01,Game Downloads,North,Casual,391,151.2,0.21,46704.17
+2024-07-10,Game Downloads,West,Casual,243,7.07,0.04,1649.29
+2024-09-25,Game Downloads,East,Casual,265,30.12,0.23,6145.99
+2024-05-15,In-game Purchases,East,Casual,466,95.06,0.23,34109.43
+2024-03-10,Game Downloads,East,Casual,273,28.66,0.04,7511.21
+2024-08-05,Subscriptions,South,Hardcore,186,88.36,0.1,14791.46
+2024-09-07,In-game Purchases,South,Hardcore,18,67.71,0.08,1121.28
+2024-12-13,Subscriptions,West,Hardcore,429,108.49,0.29,33044.97
+2024-06-23,Game Downloads,West,Casual,220,60.56,0.05,12657.04
+2024-03-23,Game Downloads,South,Casual,226,48.1,0.13,9457.42
+2024-02-27,Subscriptions,North,Hardcore,466,47.64,0.24,16872.18
+2024-09-07,Game Downloads,North,Casual,317,92.6,0.03,28473.57
+2024-12-26,In-game Purchases,South,Hardcore,333,118.78,0.27,28874.23
+2024-10-19,Game Downloads,South,Hardcore,491,148.31,0.09,66266.39
+2024-01-06,Game Downloads,South,Casual,473,6.32,0.26,2212.13
+2024-06-03,In-game Purchases,South,Hardcore,165,196.05,0.11,28789.94
+2024-10-07,Subscriptions,West,Hardcore,498,163.13,0.24,61741.44
+2024-02-09,Game Downloads,North,Casual,194,152.48,0.01,29285.31
+2024-10-15,In-game Purchases,East,Hardcore,290,108.6,0.14,27084.84
+2024-09-11,Subscriptions,South,Casual,451,28.83,0.24,9881.77
+2024-01-10,Game Downloads,South,Hardcore,480,140.93,0.07,62911.15
+2024-09-08,Subscriptions,West,Hardcore,395,12.06,0.18,3906.23
+2024-06-20,In-game Purchases,North,Casual,495,40.64,0.23,15489.94
+2024-08-01,In-game Purchases,East,Hardcore,263,167.44,0.11,39192.68
+2024-10-15,Subscriptions,West,Hardcore,181,13.7,0.07,2306.12
+2024-03-28,In-game Purchases,South,Casual,132,176.55,0.03,22605.46
+2024-02-11,Game Downloads,West,Casual,140,27.49,0.12,3386.77
+2024-10-08,Game Downloads,West,Casual,227,184.49,0.05,39785.27
+2024-01-08,Game Downloads,North,Casual,439,42.87,0.07,17502.53
+2024-01-26,In-game Purchases,North,Hardcore,273,89.03,0.27,17742.79
+2024-05-17,In-game Purchases,North,Casual,268,169.68,0.02,44564.76
+2024-12-15,In-game Purchases,West,Hardcore,284,108.43,0.16,25867.06
+2024-01-05,In-game Purchases,West,Hardcore,469,134.43,0.22,49177.18
+2024-11-18,Game Downloads,East,Hardcore,373,186.45,0.01,68850.39
+2024-08-02,Game Downloads,South,Hardcore,460,68.12,0.16,26321.57
+2024-03-01,Game Downloads,West,Casual,144,133.8,0.18,15799.1
+2024-06-18,In-game Purchases,East,Hardcore,417,133.17,0.14,47757.43
+2024-03-22,In-game Purchases,North,Hardcore,198,13.65,0.08,2486.48
+2024-08-02,Game Downloads,North,Hardcore,428,77.93,0.3,23347.83
+2024-07-02,Subscriptions,East,Hardcore,413,22.12,0.09,8313.36
+2024-03-05,In-game Purchases,West,Hardcore,485,60.51,0.02,28760.4
+2024-02-10,Game Downloads,East,Casual,496,15.19,0.28,5424.65
+2024-12-18,Game Downloads,East,Casual,240,111.35,0.01,26456.76
+2024-04-26,In-game Purchases,West,Hardcore,236,128.65,0.1,27325.26
+2024-12-05,Subscriptions,North,Casual,430,104.48,0.06,42230.82
+2024-02-18,Subscriptions,East,Casual,332,122.89,0.05,38759.51
+2024-01-25,Subscriptions,East,Casual,255,32.9,0.27,6124.34
+2024-05-07,In-game Purchases,South,Hardcore,474,51.32,0.13,21163.34
+2024-10-08,Subscriptions,South,Hardcore,299,2.88,0.01,852.51
+2024-01-09,Game Downloads,West,Hardcore,238,55.77,0.22,10353.14
+2024-12-22,In-game Purchases,West,Casual,193,160.09,0.1,27807.63
+2024-09-30,Subscriptions,South,Casual,422,102.0,0.1,38739.6
+2024-01-04,Game Downloads,East,Hardcore,234,87.01,0.13,17713.5
+2024-11-30,In-game Purchases,East,Hardcore,158,34.42,0.28,3915.62
+2024-12-03,Subscriptions,East,Hardcore,3,199.53,0.11,532.75
+2024-03-31,Game Downloads,North,Hardcore,466,188.9,0.11,78344.39
+2024-09-10,Subscriptions,West,Casual,22,63.3,0.17,1155.86
+2024-09-06,Game Downloads,West,Hardcore,392,118.37,0.04,44545.0
+2024-10-26,Game Downloads,North,Hardcore,196,132.46,0.16,21808.21
+2024-01-28,Subscriptions,North,Hardcore,234,147.6,0.0,34538.4
+2024-01-26,Game Downloads,West,Casual,362,61.53,0.06,20937.43
+2024-02-22,Game Downloads,East,Casual,58,125.18,0.11,6461.79
+2024-01-27,Subscriptions,West,Hardcore,169,7.31,0.01,1223.04
+2024-02-13,Game Downloads,North,Hardcore,487,73.44,0.3,25035.7
+2024-12-21,In-game Purchases,South,Casual,134,143.13,0.17,15918.92
+2024-04-27,Subscriptions,North,Casual,408,53.23,0.26,16071.2
+2024-10-14,Subscriptions,South,Hardcore,319,193.65,0.08,56832.4
+2024-08-17,Game Downloads,North,Casual,132,21.45,0.05,2689.83
+2024-09-20,Game Downloads,West,Hardcore,465,90.55,0.16,35368.83
+2024-07-19,Game Downloads,South,Casual,464,153.43,0.03,69055.77
+2024-01-14,Game Downloads,West,Casual,192,112.24,0.04,20688.08
+2024-03-03,In-game Purchases,North,Hardcore,179,48.63,0.01,8617.72
+2024-05-09,Game Downloads,East,Casual,180,120.62,0.21,17152.16
+2024-10-30,Subscriptions,West,Hardcore,255,109.73,0.25,20985.86
+2024-09-12,In-game Purchases,North,Casual,374,151.62,0.24,43096.47
+2024-10-14,Game Downloads,South,Hardcore,62,35.08,0.2,1739.97
+2024-08-27,Game Downloads,South,Hardcore,421,129.41,0.26,40316.39
+2024-04-16,In-game Purchases,North,Casual,430,10.84,0.29,3309.45
+2024-01-07,Subscriptions,North,Hardcore,379,29.7,0.29,7991.97
+2024-05-22,Game Downloads,East,Casual,72,107.46,0.3,5415.98
+2024-12-03,Subscriptions,East,Casual,342,152.73,0.16,43876.27
+2024-11-21,Subscriptions,South,Hardcore,295,113.86,0.05,31909.26
+2024-09-20,In-game Purchases,South,Hardcore,171,127.82,0.0,21857.22
+2024-06-19,In-game Purchases,South,Hardcore,286,86.3,0.13,21473.17
+2024-04-13,Game Downloads,North,Hardcore,280,104.63,0.0,29296.4
+2024-10-07,In-game Purchases,South,Hardcore,125,198.37,0.02,24300.32
+2024-06-29,Subscriptions,East,Casual,8,99.59,0.29,565.67
+2024-09-22,Subscriptions,North,Casual,2,154.27,0.03,299.28
+2024-11-26,In-game Purchases,North,Casual,378,30.69,0.3,8120.57
+2024-02-09,Game Downloads,South,Hardcore,291,39.56,0.24,8749.09
+2024-08-05,In-game Purchases,North,Hardcore,392,38.2,0.03,14525.17
+2024-08-23,Subscriptions,North,Hardcore,207,183.36,0.0,37955.52
+2024-04-18,Game Downloads,South,Hardcore,101,180.17,0.04,17469.28
+2024-10-31,Subscriptions,South,Casual,278,62.48,0.11,15458.8
+2024-09-16,In-game Purchases,South,Hardcore,371,150.9,0.26,41428.09
+2024-10-15,Game Downloads,South,Hardcore,449,198.45,0.21,70392.2
+2024-10-29,In-game Purchases,North,Casual,118,109.39,0.23,9939.18
+2024-08-26,In-game Purchases,South,Hardcore,161,152.53,0.1,22101.6
+2024-01-02,In-game Purchases,West,Hardcore,239,45.11,0.16,9056.28
+2024-09-27,Game Downloads,West,Casual,20,56.13,0.12,987.89
+2024-12-05,In-game Purchases,West,Hardcore,283,100.27,0.27,20714.78
+2024-05-13,In-game Purchases,West,Hardcore,383,30.58,0.3,8198.5
+2024-01-07,Subscriptions,North,Hardcore,445,128.12,0.27,41619.78
+2024-03-10,In-game Purchases,South,Hardcore,262,34.79,0.24,6927.38
+2024-08-27,Game Downloads,East,Casual,235,188.73,0.13,38585.85
+2024-08-22,In-game Purchases,East,Casual,358,159.63,0.21,45146.56
+2024-06-15,Game Downloads,West,Hardcore,365,24.77,0.23,6961.61
+2024-01-25,In-game Purchases,North,Hardcore,437,89.6,0.24,29757.95
+2024-04-28,In-game Purchases,East,Casual,479,51.81,0.27,18116.4
+2024-06-16,Subscriptions,South,Hardcore,165,83.34,0.01,13613.59
+2024-10-14,In-game Purchases,South,Hardcore,398,33.36,0.01,13144.51
+2024-11-08,Subscriptions,North,Hardcore,232,141.71,0.19,26630.14
+2024-12-14,Game Downloads,West,Casual,491,178.39,0.24,66568.01
+2024-11-12,Subscriptions,North,Hardcore,196,40.01,0.28,5646.21
+2024-10-25,Game Downloads,East,Casual,100,122.78,0.05,11664.1
+2024-04-28,In-game Purchases,East,Casual,74,158.21,0.15,9951.41
+2024-10-27,In-game Purchases,North,Hardcore,146,151.9,0.2,17741.92
+2024-12-02,In-game Purchases,South,Casual,192,158.71,0.12,26815.64
+2024-11-01,Game Downloads,West,Hardcore,135,142.46,0.02,18847.46
+2024-10-17,In-game Purchases,West,Casual,181,82.95,0.27,10960.18
+2024-01-20,Game Downloads,West,Casual,475,119.52,0.24,43146.72
+2024-03-28,Game Downloads,West,Casual,327,5.13,0.13,1459.43
+2024-06-22,Subscriptions,North,Casual,265,68.54,0.06,17073.31
+2024-10-22,Game Downloads,North,Hardcore,360,145.23,0.17,43394.72
+2024-06-24,In-game Purchases,North,Hardcore,273,159.39,0.02,42643.2
+2024-08-19,Subscriptions,East,Casual,360,23.3,0.24,6374.88
+2024-05-13,In-game Purchases,North,Hardcore,62,92.24,0.15,4861.05
+2024-10-30,Game Downloads,East,Hardcore,424,152.67,0.15,55022.27
+2024-10-10,Subscriptions,North,Casual,38,129.45,0.23,3787.71
+2024-04-05,In-game Purchases,South,Casual,254,59.66,0.24,11516.77
+2024-03-21,Subscriptions,East,Hardcore,212,169.39,0.06,33756.04
+2024-05-03,Subscriptions,East,Hardcore,465,12.66,0.29,4179.7
+2024-06-22,Game Downloads,East,Casual,75,123.24,0.11,8226.27
+2024-12-06,Game Downloads,South,Hardcore,311,10.33,0.06,3019.87
+2024-01-12,Game Downloads,West,Hardcore,260,105.8,0.07,25582.44
+2024-06-07,In-game Purchases,East,Hardcore,27,189.14,0.23,3932.22
+2024-03-19,In-game Purchases,East,Hardcore,473,3.17,0.24,1139.55
+2024-06-27,In-game Purchases,South,Casual,388,138.38,0.06,50469.95
+2024-08-01,Game Downloads,East,Hardcore,68,75.04,0.27,3724.99
+2024-08-26,Subscriptions,North,Casual,189,36.5,0.2,5518.8
+2024-09-16,Subscriptions,South,Casual,295,72.16,0.24,16178.27
+2024-01-11,In-game Purchases,East,Hardcore,454,48.47,0.11,19584.79
+2024-07-14,Subscriptions,South,Casual,3,29.78,0.13,77.73
+2024-07-27,In-game Purchases,South,Hardcore,421,99.12,0.15,35470.09
+2024-04-01,Game Downloads,East,Casual,253,122.51,0.19,25105.97
+2024-02-14,In-game Purchases,West,Hardcore,301,99.77,0.01,29730.46
+2024-09-22,Subscriptions,South,Hardcore,71,130.13,0.14,7945.74
+2024-07-24,Subscriptions,South,Casual,37,4.34,0.09,146.13
+2024-02-06,Game Downloads,East,Casual,474,69.26,0.02,32172.66
+2024-05-17,Game Downloads,East,Hardcore,429,197.5,0.24,64392.9
+2024-04-25,Game Downloads,East,Casual,94,37.5,0.11,3137.25
+2024-11-08,Game Downloads,East,Hardcore,488,55.37,0.03,26209.94
+2024-01-10,In-game Purchases,East,Casual,328,155.72,0.22,39839.4
+2024-02-17,In-game Purchases,South,Casual,419,61.36,0.15,21853.36
+2024-02-13,In-game Purchases,North,Casual,418,99.43,0.08,38236.8
+2024-07-17,Subscriptions,West,Casual,395,179.33,0.21,55959.93
+2024-05-12,Game Downloads,West,Hardcore,115,167.32,0.05,18279.71
+2024-10-09,Game Downloads,North,Casual,195,174.45,0.16,28574.91
+2024-02-13,In-game Purchases,South,Casual,383,93.29,0.16,30013.26
+2024-04-25,Game Downloads,South,Hardcore,162,81.58,0.27,9647.65
+2024-01-08,Subscriptions,East,Hardcore,56,175.12,0.27,7158.91
+2024-07-19,Subscriptions,North,Hardcore,251,148.98,0.25,28045.48
+2024-02-02,Game Downloads,West,Casual,240,37.44,0.01,8895.74
+2024-11-27,In-game Purchases,South,Casual,476,141.47,0.24,51178.19
+2024-10-11,In-game Purchases,North,Casual,160,88.36,0.14,12158.34
+2024-07-28,In-game Purchases,West,Casual,205,160.32,0.23,25306.51
+2024-01-14,In-game Purchases,West,Casual,461,84.38,0.03,37732.2
+2024-04-05,Game Downloads,East,Hardcore,124,42.3,0.18,4301.06
+2024-03-18,Subscriptions,West,Casual,251,133.07,0.16,28056.48
+2024-06-13,Game Downloads,South,Hardcore,95,34.11,0.27,2365.53
+2024-10-02,Game Downloads,East,Hardcore,142,80.7,0.27,8365.36
+2024-02-18,In-game Purchases,North,Casual,404,127.72,0.18,42311.08
+2024-06-16,Game Downloads,South,Casual,183,9.51,0.19,1409.67
+2024-06-28,Subscriptions,North,Casual,106,144.91,0.11,13670.81
+2024-03-15,In-game Purchases,West,Hardcore,135,49.33,0.18,5460.83
+2024-12-26,In-game Purchases,East,Casual,100,145.37,0.04,13955.52
+2024-12-18,Subscriptions,North,Casual,402,152.91,0.1,55322.84
+2024-04-04,Game Downloads,North,Casual,147,173.99,0.18,20972.75
+2024-07-22,Subscriptions,West,Casual,388,130.19,0.04,48493.17
+2024-08-05,In-game Purchases,East,Hardcore,383,155.58,0.05,56607.78
+2024-08-26,Subscriptions,North,Casual,349,128.14,0.12,39354.36
+2024-05-02,In-game Purchases,North,Hardcore,270,190.17,0.0,51345.9
+2024-08-28,Game Downloads,East,Casual,177,87.99,0.02,15262.75
+2024-04-14,In-game Purchases,East,Casual,91,47.2,0.14,3693.87
+2024-05-16,Game Downloads,South,Casual,499,154.6,0.08,70973.77
+2024-02-27,In-game Purchases,East,Casual,262,100.45,0.06,24738.83
+2024-12-23,In-game Purchases,North,Casual,470,190.85,0.25,67274.62
+2024-09-10,Subscriptions,East,Hardcore,495,163.43,0.19,65527.26
+2024-05-30,In-game Purchases,North,Hardcore,166,178.83,0.12,26123.49
+2024-07-29,In-game Purchases,East,Casual,330,60.22,0.06,18680.24
+2024-02-03,Game Downloads,South,Casual,498,50.12,0.25,18719.82
+2024-08-25,In-game Purchases,South,Casual,272,170.87,0.14,39969.91
+2024-04-07,Subscriptions,South,Casual,148,172.7,0.22,19936.49
+2024-11-03,Subscriptions,East,Hardcore,323,15.71,0.06,4769.87
+2024-07-19,Subscriptions,West,Casual,160,178.74,0.0,28598.4
+2024-08-29,Game Downloads,West,Hardcore,69,46.12,0.13,2768.58
+2024-05-03,Game Downloads,South,Casual,412,126.9,0.26,38689.27
+2024-10-19,Game Downloads,North,Casual,476,129.17,0.07,57180.98
+2024-06-08,In-game Purchases,South,Hardcore,328,53.1,0.07,16197.62
+2024-05-01,Game Downloads,East,Hardcore,213,72.8,0.12,13645.63
+2024-04-01,Game Downloads,West,Casual,46,140.07,0.2,5154.58
+2024-08-26,Subscriptions,North,Casual,236,136.09,0.05,30511.38
+2024-04-26,Subscriptions,East,Hardcore,322,185.92,0.04,57471.59
+2024-05-25,Game Downloads,North,Casual,495,144.92,0.02,70300.69
+2024-12-17,Game Downloads,East,Hardcore,188,52.71,0.23,7630.3
+2024-05-26,In-game Purchases,South,Casual,189,58.55,0.05,10512.65
+2024-04-11,In-game Purchases,East,Hardcore,405,52.76,0.03,20726.77
+2024-11-28,Subscriptions,North,Casual,69,127.51,0.17,7302.5
+2024-01-26,Subscriptions,North,Casual,339,22.06,0.12,6580.94
+2024-02-16,Game Downloads,South,Casual,142,194.29,0.03,26761.5
+2024-02-25,Subscriptions,East,Hardcore,323,148.12,0.27,34925.21
+2024-02-24,Subscriptions,West,Casual,67,159.96,0.29,7609.3
+2024-07-18,Game Downloads,North,Casual,419,31.99,0.23,10320.93
+2024-04-28,In-game Purchases,East,Hardcore,199,50.8,0.14,8693.91
+2024-09-18,In-game Purchases,North,Hardcore,278,162.52,0.25,33885.42
+2024-03-04,Game Downloads,West,Casual,300,118.76,0.27,26008.44
+2024-11-17,Game Downloads,East,Casual,478,180.57,0.27,63008.1
+2024-05-24,Subscriptions,South,Casual,101,192.66,0.24,14788.58
+2024-10-27,In-game Purchases,South,Casual,27,20.87,0.08,518.41
+2024-01-25,Game Downloads,South,Casual,325,175.39,0.29,40471.24
+2024-06-12,Game Downloads,East,Casual,228,130.59,0.21,23521.87
+2024-10-10,In-game Purchases,East,Hardcore,190,130.96,0.19,20154.74
+2024-09-11,Subscriptions,North,Casual,315,86.99,0.01,27127.83
+2024-01-03,Subscriptions,North,Hardcore,271,102.83,0.29,19785.52
+2024-01-17,Subscriptions,North,Hardcore,185,33.56,0.27,4532.28
+2024-02-28,In-game Purchases,South,Casual,222,106.04,0.08,21657.61
+2024-07-02,Subscriptions,East,Casual,335,27.45,0.09,8368.13
+2024-05-02,Subscriptions,West,Casual,385,160.8,0.18,50764.56
+2024-04-02,Game Downloads,North,Casual,361,132.01,0.15,40507.27
+2024-10-08,Game Downloads,North,Casual,227,28.29,0.01,6357.61
+2024-04-28,Game Downloads,East,Casual,139,23.69,0.15,2798.97
+2024-03-10,In-game Purchases,East,Hardcore,113,65.1,0.14,6326.42
+2024-09-25,In-game Purchases,West,Casual,149,194.89,0.21,22940.5
+2024-04-19,In-game Purchases,South,Hardcore,409,103.85,0.3,29732.25
+2024-05-12,Subscriptions,South,Casual,336,79.79,0.12,23592.31
+2024-04-04,Game Downloads,East,Casual,351,197.6,0.04,66583.3
+2024-11-23,Subscriptions,East,Hardcore,14,169.89,0.01,2354.68
+2024-07-10,Game Downloads,East,Casual,175,67.65,0.22,9234.23
+2024-08-26,In-game Purchases,East,Casual,48,22.75,0.02,1070.16
+2024-03-28,Game Downloads,South,Casual,204,91.12,0.07,17287.29
+2024-02-02,Game Downloads,East,Hardcore,138,153.5,0.11,18852.87
+2024-11-04,Subscriptions,East,Casual,36,137.19,0.27,3605.35
+2024-07-12,In-game Purchases,South,Casual,335,134.45,0.23,34681.38
+2024-07-18,Game Downloads,North,Casual,76,192.68,0.1,13179.31
+2024-04-30,In-game Purchases,West,Casual,248,146.7,0.19,29469.1
+2024-05-22,Subscriptions,West,Casual,420,127.02,0.18,43745.69
+2024-08-15,Subscriptions,South,Casual,409,173.58,0.23,54665.55
+2024-08-31,Subscriptions,West,Hardcore,167,59.41,0.07,9226.97
+2024-05-23,In-game Purchases,North,Casual,414,99.15,0.2,32838.48
+2024-03-04,Game Downloads,North,Casual,55,106.29,0.19,4735.22
+2024-01-10,Game Downloads,South,Casual,148,153.27,0.15,19281.37
+2024-12-13,In-game Purchases,South,Hardcore,341,147.19,0.24,38145.76
+2024-12-26,Subscriptions,East,Hardcore,190,32.6,0.01,6132.06
+2024-07-14,In-game Purchases,North,Hardcore,399,92.83,0.14,31853.69
+2024-02-23,Game Downloads,East,Casual,307,142.96,0.2,35110.98
+2024-07-09,Subscriptions,West,Hardcore,425,146.0,0.17,51501.5
+2024-02-03,In-game Purchases,West,Casual,485,174.67,0.17,70313.41
+2024-01-25,In-game Purchases,East,Casual,181,79.51,0.13,12520.44
+2024-03-12,Subscriptions,West,Casual,141,95.59,0.29,9569.51
+2024-02-26,Game Downloads,West,Hardcore,93,134.25,0.0,12485.25
+2024-09-28,Subscriptions,South,Hardcore,19,167.0,0.07,2950.89
+2024-03-03,Subscriptions,East,Hardcore,360,110.05,0.09,36052.38
+2024-01-31,In-game Purchases,East,Casual,378,68.4,0.29,18357.19
+2024-01-11,In-game Purchases,East,Casual,411,186.92,0.13,66836.98
+2024-12-26,Subscriptions,North,Hardcore,30,187.16,0.29,3986.51
+2024-05-03,Subscriptions,North,Hardcore,312,112.65,0.05,33389.46
+2024-12-04,Subscriptions,North,Casual,326,166.82,0.25,40787.49
+2024-03-11,In-game Purchases,East,Hardcore,43,77.9,0.26,2478.78
+2024-09-05,In-game Purchases,West,Hardcore,278,32.98,0.02,8985.07
+2024-07-24,In-game Purchases,North,Casual,222,178.32,0.15,33648.98
+2024-05-10,In-game Purchases,South,Hardcore,4,177.99,0.08,655.0
+2024-09-23,Game Downloads,North,Casual,365,2.14,0.13,679.56
+2024-12-28,In-game Purchases,South,Casual,148,21.42,0.21,2504.43
+2024-06-18,In-game Purchases,North,Casual,318,45.12,0.04,13774.23
+2024-02-16,In-game Purchases,East,Hardcore,105,13.82,0.13,1262.46
+2024-09-27,Subscriptions,East,Casual,135,102.11,0.28,9925.09
+2024-11-13,In-game Purchases,South,Casual,345,54.29,0.18,15358.64
+2024-05-16,Game Downloads,North,Hardcore,12,31.81,0.04,366.45
+2024-07-04,Game Downloads,East,Casual,391,135.03,0.05,50156.89
+2024-07-21,Game Downloads,East,Hardcore,268,55.82,0.13,13014.99
+2024-09-15,Game Downloads,North,Hardcore,160,160.91,0.29,18279.38
+2024-05-19,Subscriptions,North,Hardcore,465,147.24,0.19,55457.95
+2024-03-04,In-game Purchases,North,Hardcore,143,149.9,0.13,18649.06
+2024-06-11,Game Downloads,East,Casual,243,22.91,0.01,5511.46
+2024-01-31,Subscriptions,North,Hardcore,39,135.49,0.17,4385.81
+2024-03-17,In-game Purchases,South,Hardcore,444,166.93,0.1,66705.23
+2024-06-03,In-game Purchases,North,Hardcore,204,118.37,0.28,17386.19
+2024-12-29,Game Downloads,North,Hardcore,359,117.27,0.19,34100.94
+2024-10-31,Game Downloads,North,Hardcore,170,70.95,0.08,11096.58
+2024-02-22,Game Downloads,East,Casual,408,192.52,0.21,62053.05
+2024-06-03,Game Downloads,South,Hardcore,415,180.61,0.19,60712.05
+2024-10-17,Subscriptions,South,Casual,391,86.62,0.27,24723.95
+2024-03-19,Subscriptions,South,Casual,287,152.43,0.21,34560.45
+2024-11-23,Game Downloads,South,Hardcore,89,50.6,0.24,3422.58
+2024-11-20,In-game Purchases,West,Hardcore,392,195.69,0.12,67505.22
+2024-11-05,In-game Purchases,South,Casual,5,60.65,0.03,294.15
+2024-09-08,In-game Purchases,East,Casual,369,130.48,0.23,37073.28
+2024-01-26,In-game Purchases,West,Casual,237,32.92,0.19,6319.65
+2024-01-23,Game Downloads,East,Casual,410,85.68,0.14,30210.77
+2024-09-02,In-game Purchases,East,Casual,384,63.76,0.1,22035.46
+2024-10-12,In-game Purchases,North,Casual,281,119.74,0.01,33310.47
+2024-11-05,Game Downloads,West,Casual,149,62.58,0.28,6713.58
+2024-06-02,Subscriptions,West,Casual,99,119.12,0.23,9080.52
+2024-11-26,Game Downloads,South,Hardcore,33,94.06,0.21,2452.14
+2024-03-24,Game Downloads,East,Hardcore,65,139.52,0.08,8343.3
+2024-07-13,In-game Purchases,East,Hardcore,366,155.27,0.15,48304.5
+2024-06-20,Subscriptions,North,Casual,473,13.1,0.3,4337.41
